@@ -2,7 +2,7 @@
 
 #include <WiFi.h>
 
-const char* ssid = "mark_allan";
+// const char* ssid = "mark_allan";
 // const char* password = "pinging_here";
 
 const char* ssid_custom = "KINGS";
